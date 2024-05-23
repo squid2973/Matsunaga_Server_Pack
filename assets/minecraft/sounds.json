@@ -1,0 +1,6 @@
+{
+    "aztec.appproach.1.local":{"category": "master","sounds": [{"name": "station/音声ファイル名"}]},
+    "aztec.arrive.1.local":{"category": "master","sounds": [{"name": "station/音声ファイル名"}]},
+    "aztec.approach.2.express":{"category": "master", "sounds": [{"name": "station/音声ファイル名"}]},
+    "aztec.arrive.2.express":{"category": "master", "sounds": [{"name": "station/音声ファイル名"}]}
+    }

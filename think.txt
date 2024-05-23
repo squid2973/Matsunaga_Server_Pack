@@ -1,0 +1,7 @@
+aztec.approach.1.local(local to metro approaching platform 1)
+aztec.arrive.1.local(local to metro arriving on platform 1. next stop is Bridgeport)
+aztec.approach.2.express(express to metro approaching platform 2)
+aztec.arrive.2.express(express to metro arriving on Platform 2. Next stop is metro)
+
+bridgeport.approach.1.local(local to metro approaching platform 1)
+bridgeport.
