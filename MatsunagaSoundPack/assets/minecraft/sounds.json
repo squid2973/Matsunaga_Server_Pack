@@ -4,5 +4,14 @@
     "bridgeport.approach.1.local":{"category": "master", "sounds": [{"name": "station/bridgeport.approach.1.local"}]},
     "bridgeport.approach.2.local":{"category": "master", "sounds": [{"name": "station/bridgeport.approach.2.local"}]},
     "pacific.approach.1.local":{"category": "master", "sounds": [{"name": "station/pacific.approach.1.local"}]},
-    "pacific.approach.2.local":{"category": "master", "sounds": [{"name": "station/pacific.approach.2.local"}]}
+    "az.nb.pacific.local":{"category": "master", "sounds": [{"name": "train/az.nb.pacific.local"}]},
+    "az.nb.bridgeport.local":{"category": "master", "sounds": [{"name": "train/az.nb.bridgeport.local"}]},
+    "az.nb.aztec.local":{"category": "master", "sounds": [{"name": "train/az.nb.aztec.local"}]},
+    "az.sb.bridgeport.local":{"category": "master", "sounds": [{"name": "train/az.sb.bridgeport.local"}]},
+    "az.sb.pacific.local":{"category": "master", "sounds": [{"name": "train/az.sb.pacific.local"}]},
+    "az.sb.metro.local":{"category": "master", "sounds": [{"name": "train/az.sb.metro.local"}]},
+    "az.nb.aztec.express":{"category": "master", "sounds": [{"name": "train/az.nb.aztec.express"}]},
+    "az.sb.metro.express":{"category": "master", "sounds": [{"name": "train/az.nb.metro.express"}]},
+    "chime":{"category": "master", "sounds": [{"name": "other/chime"}]}
+
     }
